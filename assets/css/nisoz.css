@@ -6629,7 +6629,7 @@ body.locked .page-wrapper {
 
 .client-carousel .client-carousel__one .client-carousel__one__item img {
   transition: 500ms;
-  opacity: 0.2;
+  opacity: 0.7 !important;
   max-width: 100%;
   width: auto;
 }
@@ -6639,7 +6639,7 @@ body.locked .page-wrapper {
 }
 
 .client-carousel .client-carousel__one .client-carousel__one__item:hover img {
-  opacity: 0.6;
+  opacity: 1 !important;
 }
 
 /*--------------------------------------------------------------

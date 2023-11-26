@@ -6639,7 +6639,7 @@ body.locked .page-wrapper {
 }
 
 .client-carousel .client-carousel__one .client-carousel__one__item:hover img {
-  opacity: 0.6;
+  opacity: 1;
 }
 
 /*--------------------------------------------------------------
